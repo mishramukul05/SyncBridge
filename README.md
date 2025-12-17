@@ -5,21 +5,21 @@ SyncBridge is a powerful MERN stack web application designed for real-time colla
 #Live Link 
 (https://sync-bridge-zeta.vercel.app/)
 
-## 📸 Screenshots
-{To be Updated}
-<!--  
+<!--## 📸 Screenshots
+{To be Updated}  
 Add your screenshots here by replacing the URLs below or use relative paths if you upload images to your repo.
 
 Example:  
 ![Login Screen](screenshots/login.png)  
 ![Dashboard](screenshots/dashboard.png)  
--->
+
 
 ![Screenshot 1](screenshots/screenshot1.png)  
 ![Screenshot 2](screenshots/screenshot2.png)  
 ![Screenshot 3](screenshots/screenshot3.png)  
 
----
+--
+-->
 
 ## 🛠 Tech Stack & Features
 
